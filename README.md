@@ -15,4 +15,5 @@
 [Visual Studio Code - オープンソースのAIコードエディタ |マルチエージェント開発のためのあなたのホーム](https://code.visualstudio.com/)
 ## 2,Node.js
 [Node.js — Run JavaScript Everywhere](https://nodejs.org/en)
-## 3,https://aistudio.google.com/api-keys
+## 3,google api kye
+https://aistudio.google.com/api-keys
