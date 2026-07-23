@@ -9,7 +9,7 @@
 ## 6,そして上書き保存をしてさっき開いたターミナルに"node server.js"と打ってください。
 ## 7,最後にマインクラフトのワールドに入りコマンドで"/connect ws://localhost:3000"と打ってください。
 ### もしエラーが出る場合設定の一般の設定からWebSocketを有効にしてやってください。
-
+# "!ai"は必ず入れてください（マイクラのほうのコマンド）
 # 必要ソフト
 ## 1,VisualStudioCode(Vscode)
 [Visual Studio Code - オープンソースのAIコードエディタ |マルチエージェント開発のためのあなたのホーム](https://code.visualstudio.com/)
